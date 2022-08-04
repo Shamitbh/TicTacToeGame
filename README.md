@@ -1,5 +1,5 @@
 # TicTacToeGame
-Java based Tic Tac Toe game where you can play against another player on the same computer.
+Java based Tic Tac Toe game where you can play against another player on the same computer. Leverages Java GUI, Networking concepts, Threading concepts, Event listeners, OOP, etc.
 
 
 
